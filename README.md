@@ -57,10 +57,21 @@ Hey everyone, I'm **Mayur Shivaji Jambe**, an aspiring Data Analyst with a stron
 
 # 📢 Connect with Me
 <p align="center">
-<a href="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="#"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayurjambe42/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.kaggle.com/mayurjambe" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/_mayurr_42" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://medium.com/@mayurjambe" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
+</a>
+<a href="https://github.com/mayur-42" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" />
+</a>
 </p>
 
 
