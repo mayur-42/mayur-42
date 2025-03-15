@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"/> I'm Mayur Jambe</h1>
 
-<h2 align="center">Aspiring Data Analyst | Proficient in Excel, SQL, Power BI, Tableau, and Python | Learner | Developer</h2>
+<h2 align="center">Microsoft PL-300 Certified | Aspiring Data Analyst | Skilled in SQL, Power BI, Excel, Tableau & Python | Data Enthusiast | Lifelong Learner</h2>
 
 ### About Me 🤓
 Hey everyone, I'm **Mayur Shivaji Jambe**, an aspiring Data Analyst with a strong passion for turning raw data into meaningful insights. I'm proficient in **SQL, Python, Power BI, Tableau, and Excel** and always eager to learn and grow in the field of data analytics.
